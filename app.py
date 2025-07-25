@@ -31,6 +31,9 @@ def hello():
       color: #00FF00;
       text-decoration: underline;
     }
+    p {
+      margin: 0.3em 0;
+    }
     .box {
       border: 1px solid #00FF00;
       padding: 2rem;
@@ -42,9 +45,11 @@ def hello():
 </head>
 <body>
   <div class="box">
-    <h1>Subdomain Takeover by Asif</h1>
+    <h1>Subdomain Takeover by Asif Nawaz Minhas</h1>
     <p>
-      <a href="https://www.asifnawazminhas.com/" target="_blank">asifnawazminhas.com</a> &nbsp; | &nbsp;
+      <a href="https://www.asifnawazminhas.com/" target="_blank">asifnawazminhas.com</a>
+    </p>
+    <p>
       <a href="https://www.linkedin.com/in/asifminhasnl/" target="_blank">LinkedIn</a>
     </p>
   </div>
